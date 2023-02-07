@@ -7,10 +7,7 @@ Table of Contents:
 * [Built-in Commands](#built-in-commands)
 * [Contributing](#contributing)
 * [Team](#team)
-  * [Aymen Bennabi](#aymen-bennabi)
-  * [Fatih Aytar](#fatih-aytar)
-  * [Hajer Gafsi](#hajer-gafsi)
-* [License](#license)
+  * [Farrukh Adeel](#FarrukhAdeel67)
 * [Resources](#resources)
 
 
@@ -93,7 +90,7 @@ Please Follow the following instructions to run the shell successfully
 
 * Clone the repo
 ```
-git clone https://github.com/bennaaym/unix-shell.git
+git clone https://github.com/FarrukhAdeel67/UNIX-Shell.git
 ```
 
 * Be sure that you're inside unix-shell directory, you can run **pwd** to check the current working directory
@@ -176,9 +173,9 @@ To contribute to this open-source project, follow these steps:
     ``` 
     ````
     e.g:
-    username : bennaaym 
+    username : farrukhadeel67 
     name : new_feature 
-    branch = bennaaym/new_feature 
+    branch = farrukhadeel67/new_feature 
     ```
 3. Make your changes and commit them: `git commit -m '<commit_message>'`.
 4. Push to your branch: `git push origin <project_name>/<location>`.
